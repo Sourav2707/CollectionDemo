@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressionDemmo", "LambdaExpressionDemmo\LambdaExpressionDemmo.csproj", "{FB45FB8D-671E-4FF5-9B7A-F1431177688F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB45FB8D-671E-4FF5-9B7A-F1431177688F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB45FB8D-671E-4FF5-9B7A-F1431177688F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB45FB8D-671E-4FF5-9B7A-F1431177688F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB45FB8D-671E-4FF5-9B7A-F1431177688F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1287BD64-1103-48F4-9F2F-5DFD6524908F}
+	EndGlobalSection
+EndGlobal
